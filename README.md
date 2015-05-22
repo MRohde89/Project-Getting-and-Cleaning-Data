@@ -8,7 +8,7 @@
 
 #### The main result is based on the variable called data, which is the combined dataset from the tabels of the UCI HAR Dataset.
 
-### The single steps that were undertaken are descripted in the script itself.
-### Thank you for your time and i hope the script serves you well.
+#### The single steps that were undertaken are descripted in the script itself.
+## Thank you for your time and i hope the script serves you well.
 
 
