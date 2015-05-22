@@ -53,7 +53,7 @@ The complete list of variables of each feature vector is available in 'features.
 ##### In the new_data (the result file from the run_analysis script) all of the vectors described in this section are the average of each subject and each activity. So please keep that in mind.
 
 
-### additional columns
+### additional variables
 
 Subject =
 	the number of the test person
