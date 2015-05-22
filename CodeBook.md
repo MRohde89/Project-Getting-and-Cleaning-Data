@@ -49,7 +49,7 @@ tBodyGyroJerkMean
 
 The complete list of variables of each feature vector is available in 'features.txt'
 
-# All values named in this Section are numeric values! 
+##### All values named in this Section are numeric values! 
 
 
 ### additional variables
