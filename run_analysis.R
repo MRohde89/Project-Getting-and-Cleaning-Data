@@ -25,7 +25,7 @@ y_test <- rename(y_test, Y = V1)
 subject_train <- rename(subject_train, Subject = V1)
 y_train <- rename(y_train, Y = V1)
 
-### combining and merging the data to a (new) complete dataframe
+### combining and merging the data to a (new) dataframe
 
 test_data <- cbind(subject_test, y_test, x_test)
 train_data <- cbind(subject_train,y_train,x_train)
