@@ -1,6 +1,7 @@
 # Project-Getting-and-Cleaning-Data
 
 ## Hello, the R-script run_analysis takes the different txt-files from the UCI HAR Dataset, which are based on results from movements with wearables, and combines them, so that it can be used for further analysis.
+## Important: The final dataframe has only the mean and std columns which correspondent to the original data. 
 
 ## it is crucial to know that you need to install the packages plyr, dplyr as well as data.table. Your working directory has to be the UCI HAR Dataset folder
 
