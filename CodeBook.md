@@ -56,25 +56,25 @@ The complete list of variables of each feature vector is available in 'features.
 
 Subject =
 	the number of the test person
-	* 01..30
+* 01..30
 
 Y 	=
 	the id for the activity
-	* WALKING
-	* WALKING_UPSTAIRS
-	* WALKING_DOWNSTAIRS
-	* SITTING
-	* STANDING
-	* LAYING
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
 
 activity=
 	the activity, see also Y
-	* WALKING
-	* WALKING_UPSTAIRS
-	* WALKING_DOWNSTAIRS
-	* SITTING
-	* STANDING
-	* LAYING
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
 
 
 
