@@ -52,7 +52,7 @@ The complete list of variables of each feature vector is available in 'features.
 ##### All values named in this Section are numeric values! 
 
 
-### additional variables
+### additional columns
 
 Subject =
 	the number of the test person
